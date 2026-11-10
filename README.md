@@ -2,8 +2,6 @@
 
 A Power BI dashboard giving a quick revenue overview for a training-services business that sells data and analytics courses. It tracks revenue, orders and customers by region, course and time period.
 
-![Dashboard](screenshots/dashboard.png)
-
 ## What the Dashboard Shows
 - **KPI cards:** Total Revenue, Total Customers, Total Orders
 - **Revenue by Region** and **Revenue by Course** (bar charts)
